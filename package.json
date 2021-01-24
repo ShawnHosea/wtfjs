@@ -16,5 +16,8 @@
   "license": "WTFPL",
   "dependencies": {
     "@architect/workflows": "^3.4.2"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^3.3.5"
   }
 }
