@@ -12,7 +12,7 @@ production wtfjs-production
 profile personal
 region us-west-1
 
-@html
+@http
 get /
 get /about
 get /license

@@ -14,10 +14,14 @@
     "www.wtfjs.com"
   ],
   "license": "WTFPL",
+  "scripts": {
+    "start": "npx sandbox"
+  },
   "dependencies": {
-    "@architect/workflows": "^3.4.2"
+    "@architect/functions": "^3.13.9",
+    "@begin/data": "^1.2.3"
   },
   "devDependencies": {
-    "@architect/sandbox": "^3.3.5"
+    "@architect/sandbox": "^3.3.7"
   }
 }
